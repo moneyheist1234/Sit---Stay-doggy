@@ -1,4 +1,6 @@
 # Sit & Stay
+This responsive website is designed with a dog theme and takes inspiration from Angela Yu,
+a renowned web development instructor.
 
 # Description
 Sit & Stay is a comprehensive dog care website dedicated to providing valuable resources and information for dog owners. From training tips to health advice, we aim to help you create a happy and fulfilling life for your furry companion.
